@@ -68,7 +68,7 @@ export default function Hero() {
                 variants={itemVariants}
                 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
               >
-                <div className="text-white block mb-2">Hi, I'm</div>
+                <div className="text-white block mb-2">Hi, I&apos;m</div>
                 <div 
                   className="block" 
                   style={{ 
